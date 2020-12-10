@@ -3,6 +3,7 @@ Git testings with https://nvie.com/posts/a-successful-git-branching-model/
 
 change in myfeat
 I propose a little change with a fork... a little change again
+a third change
 
 
 change again in myfeatasdfsadf
